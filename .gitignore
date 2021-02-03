@@ -1,0 +1,16 @@
+.*
+*
+
+!.gitignore
+!README.md
+
+!doc/
+!doc/*.pdf
+
+!pic/
+!pic/*.png
+
+!hardware/
+!hardware/*.PrjPcb
+!hardware/*.SchDoc
+!hardware/*.PcbDoc
